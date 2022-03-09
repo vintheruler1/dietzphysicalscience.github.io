@@ -14,6 +14,9 @@ Welcome to the Physical Science Study Guides websites. Some of these study guide
 
 ### Eight (8th) Grade
 [Scientific Inquiry Process](EEEEE)
+
 [pH](aaa)
+
 [Waves Review](https://youtube.com)
+
 [Thermal Energy](https://youtube.com)
