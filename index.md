@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Physical Science Study Guides with Ms. Dietz
 
-You can use the [editor on GitHub](https://github.com/vintheruler1/dietzstudyguides.githubio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to the Physical Science Study Guides websites. Some of these study guides are not approved by Ms. Dietz, use at your own caution.
 
 ### Markdown
 
