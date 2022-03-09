@@ -22,6 +22,3 @@ This entails content from 6th, 7th, and 8th grade.
 
 [Thermal Energy](https://youtube.com)
 
-
-
-### This Website is licensed by GNU v3
