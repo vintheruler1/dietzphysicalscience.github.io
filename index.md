@@ -6,7 +6,7 @@ This entails content from 6th, 7th, and 8th grade.
 # Study Guides
 
 ### Sixth (6th) Grade
-[Types of Rocks](https://vintheruler1.github.io/dietzphysicalscience.github.io/rocks)
+[Types of Rocks](rocks.md)
 
 
 ### Seventh (7th) Grade
@@ -21,4 +21,3 @@ This entails content from 6th, 7th, and 8th grade.
 [Waves Review](https://youtube.com)
 
 [Thermal Energy](https://youtube.com)
-
