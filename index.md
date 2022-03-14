@@ -6,7 +6,7 @@ This entails content from 6th, 7th, and 8th grade.
 # Study Guides
 
 ### Sixth (6th) Grade
-[Types of Rocks](tree)
+[Types of Rocks](https://vintheruler1.github.io/dietzphysicalscience.github.io/rocks)
 
 
 ### Seventh (7th) Grade
