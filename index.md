@@ -1,6 +1,6 @@
 # 8th Grade FSA Science Review
 
-Welcome to the Physical Science Study Guides & FSA prep website. Some of these study guides are not approved by Ms. Dietz, use at your own caution.
+Welcome to the Physical Science Study Guides & FSA preparation website. Some of these study guides are not approved by Ms. Dietz, use at your own caution.
 This entails content from 6th, 7th, and 8th grade.
 
 # Study Guides
